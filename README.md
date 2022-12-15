@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL:](https://www.frontendmentor.io/solutions/stats-preview-card-component-Ftm6EsoNMl)
+- [Live Site URL:](https://profkmcleod.github.io/fm-stats-preview-card-component/)
 
 ## My process
 
@@ -44,10 +43,10 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Variables - the var() function](https://www.w3schools.com/css/css3_variables.asp) 
+- [How to add a color overlay to a background image?](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image) 
+- [CSS Background blend-mode property](https://www.w3schools.com/cssref/pr_background-blend-mode.asp)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@profkmcleod](https://www.frontendmentor.io/profile/profkmcleod)
